@@ -6,7 +6,7 @@ This code is intended to provide an example to read parquet file and inserting d
 To run the example download spark Cassandra connector jar-
 spark-cassandra-connector_2.11-2.3.2.jar
 Download the project:
-git clone https://github.com/hexana/spark-examples/spark-cassandra-java
+git clone https://github.com/hexana/spark-cassandra-java.git
 
 change below files:
 (Cassandra server details needs to be given in PlayObj.scala class. In case Cassandra installed locally set
