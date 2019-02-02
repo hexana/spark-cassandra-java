@@ -2,7 +2,7 @@
 Sample code to insert data to cassandra
 
 Usage
-This code is intended to provide an example to read parquet file and inserting data into Cassandra db.(cretae the keyspace and table in line with schema in cassandra)
+This code is intended to provide an example to read parquet file and inserting data into Cassandra db.(create the keyspace and table in line with schema in cassandra)
 To run the example download spark Cassandra connector jar-
 spark-cassandra-connector_2.11-2.3.2.jar
 Download the project:
