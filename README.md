@@ -8,7 +8,7 @@ spark-cassandra-connector_2.11-2.3.2.jar
 Download the project:
 git clone https://github.com/hexana/spark-examples/spark-cassandra-java
 
-chnage below files:
+change below files:
 (Cassandra server details needs to be given in PlayObj.scala class. In case Cassandra installed locally set
 conf.set("spark.cassandra.connection.host", "localhost") or in case cassandra cluster setup is there provide comma separated list of ip’s
 conf.set("spark.cassandra.connection.host", "ip1,ip2,ip3") and after that build the jar)
